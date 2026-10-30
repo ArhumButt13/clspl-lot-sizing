@@ -1,0 +1,5 @@
+instance_file,model_name,items,periods,resources,status_code,status_name,has_solution,objective_value,best_bound,mip_gap,runtime_seconds,num_variables,num_constraints,explored_nodes,solution_count,notes
+A6_G001545_MLCLS.dat,G0041545,10,6,3,2,OPTIMAL,True,8820.999000,8820.999000,0.000000,2.9670,258,339,311,10,
+B6_G511541_MLCLS.dat,g5141541,10,6,3,2,OPTIMAL,True,8887.332000,8887.332000,0.000000,1.8070,258,339,1500,10,
+C20_K805132_MLCLS.dat,k8025132,40,20,6,9,TIME_LIMIT_WITH_SOLUTION,True,72181.444200,32849.701553,0.544901,901.8490,3320,4246,4658,10,Time limit hit. Incumbent solution exported; see best_bound and mip_gap for quality.
+D20_G819321_MLCLS.dat,G8169321,40,20,6,9,TIME_LIMIT_WITH_SOLUTION,True,262535.879627,154969.595439,0.409720,900.1880,3320,4246,7805,10,Time limit hit. Incumbent solution exported; see best_bound and mip_gap for quality.

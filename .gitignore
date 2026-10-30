@@ -1,0 +1,10 @@
+__pycache__/
+*.pyc
+.vscode/
+.venv/
+model_debug/
+*.lp
+*.ilp
+gurobi.lic
+# course materials - do not publish
+instances/*.dat
